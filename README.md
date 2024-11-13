@@ -1,10 +1,6 @@
-## Hi there 👋
+## Vũ Văn Nguyên - Uneti
 
-<!--
-**ht11108/ht11108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+# University: Trường Đại học Kinh tế - Kỹ thuật Công nghiệp
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
